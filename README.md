@@ -90,11 +90,6 @@ Entre os recursos que aproveito para customizar o Gemini 2.0, destaco a **capaci
 
 ---
 
-## 🏅 **Badges e Shields que Demonstram Meu Domínio Técnico** 🎖️
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/chaos4455/LLM-Fine-Tuning?style=flat&color=purple)](https://github.com/chaos4455)  
-[![Language](https://img.shields.io/github/languages/top/chaos4455/LLM-Fine-Tuning?color=purple&style=flat)](https://github.com/chaos4455)  
-[![License](https://img.shields.io/github/license/chaos4455/LLM-Fine-Tuning?style=flat&color=purple)](https://github.com/chaos4455)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-%230077b5?style=flat)](https://www.linkedin.com/in/itilmgf/)
 
 ---
