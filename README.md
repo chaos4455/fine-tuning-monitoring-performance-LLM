@@ -94,12 +94,6 @@ Entre os recursos que aproveito para customizar o Gemini 2.0, destaco a **capaci
 
 ---
 
-## **Entre em Contato e Faça Parte dessa Jornada de Inovação** 📞
-
-Eu não estou aqui apenas para aplicar técnicas, mas para **revolucionar a forma como os LLMs são treinados, ajustados e avaliados**. Se você deseja colaborar comigo, **explorar novas abordagens ou otimizar um modelo**, entre em contato. Não espere mais para transformar sua inteligência artificial em algo realmente **inteligente**.
-
-**Telefone/WhatsApp:** [11 9 1335 3137](tel:+551193353137)
-
 ---
 
 **Este repositório não é apenas uma demonstração de fine-tuning; ele é a prova de que a inteligência artificial, quando tratada com a profundidade e o rigor acadêmico certos, pode alcançar níveis de cognição e raciocínio que muitos pensariam ser inatingíveis.**
