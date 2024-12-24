@@ -1,5 +1,11 @@
 # 🔥 **Elias Andrade - Especialista em Fine-Tuning de LLMs, Análise Avançada de IA e Performance Evaluation** 🚀
 
+
+
+https://github.com/user-attachments/assets/c21e1726-f068-4141-8cfe-b627667f4458
+
+
+
 ## **Introdução ao Mundo da Inteligência Artificial e Fine-Tuning de LLMs** 👑
 
 Bem-vindo ao meu repositório dedicado ao **fine-tuning de Modelos de Linguagem de Grande Escala (LLMs)**, **análise de desempenho avançada** e **avaliação técnica** de IA. Sou Elias Andrade, um especialista com mais de 14 anos de experiência no setor de infraestrutura de TI, e agora, me dedicando profundamente ao **domínio das tecnologias de inteligência artificial**. Não estou aqui para ensinar conceitos básicos, e sim para **compartilhar o ápice do conhecimento** sobre como modelar, ajustar e avaliar LLMs, transformando-os em ferramentas poderosas, cognitivamente refinadas e otimizadas para cenários altamente especializados.
